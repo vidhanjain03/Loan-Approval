@@ -1,7 +1,7 @@
 # Loan Prediction Problem Set
 
 ## Project Description
-The project's goal was to create a model that was trained using a specified dataset and then classify labels for test data.
+The Aim of the project is to write a supervised machine learning model from scarth in order to classify the labels. Dataset used for classification is loan given to previous people.
 
 ### Project Pipeline: 
 1. Import the data
