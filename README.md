@@ -26,5 +26,8 @@ Random Forest is a classifier that contains a number of decision trees on variou
 <img src='https://github.com/vidhanjain03/Loan-Approval/assets/84527469/da6c26d9-cdfd-494b-b480-2df99858329c' width=50% height=50%>
 </p>
 
+## Data and Prediction
+
+
 
 
