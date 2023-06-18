@@ -18,6 +18,6 @@ Dataset is made up of consumer information entered into an online application fo
 * Languages: Python3
 * Python Libraries: NumPy, Pandas, Seaborn, Matplotlib
 
-## Random Forest Classifier
-Random forest classifier is ensambled decision tree model. It is used in order to avoid the problem of overfitting.
+## Classifier Used
+Random forest classifier is used. It is ensambled decision tree model. It is used in order to avoid the problem of overfitting.
 Working: 
