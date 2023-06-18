@@ -8,7 +8,7 @@ Dataset is made up of consumer information entered into an online application fo
 * Import the data
 * Find the features which can contribute in classification, if require do feature engineering.
 * Convert data into numerical form.
-* Split data into train, val and test.
+* Split data into train and test.
 * Write the model and train it on data.
 * Find the optimal parameters for accurate prediction.
 * Make prediction on test data
@@ -19,4 +19,3 @@ Dataset is made up of consumer information entered into an online application fo
 * Python Libraries: NumPy, Pandas, Seaborn, Matplotlib
 
 ## Random Forest Classifier
-
