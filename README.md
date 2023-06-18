@@ -1,16 +1,17 @@
 # Loan Prediction Problem Set
 
 ## Project Description
-The Aim of the project is to write a supervised machine learning model from scarth in order to classify the labels. 
-Dataset used for classification is loan given to previous people.
+The project's goal is to create a supervised machine learning model from scratch to categorise the labels. 
+Dataset is made up of consumer information entered into an online application form. These information include gender, marital status, education level, number of dependents, income, loan amount, credit history, and other characteristics.
 
 ### Project Pipeline: 
 * Import the data
-* Analyze the distribution of data for both types of features
-* Exploration, pattern recognition, and data analysis
-* Wrangled the data
-* For the dataset, I created and trained the necessary model (In this case random forest algorithm) 
-* Making predictions
+* Find the features which can contribute in classification, if require do feature engineering.
+* Convert data into numerical form.
+* Split data into train, val and test.
+* Write the model and train it on data.
+* Find the optimal parameters for accurate prediction.
+* Make prediction on test data
 
 ### Technologies Used:
 * Software IDE: Jupyter Notebook
